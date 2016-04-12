@@ -6,7 +6,7 @@ Extension of the ISheetMetalFolder interface to change thickness and radius valu
 
 # Usage
 
- /*Demo: Getting SheetMetalFolder */  
+ 
 
         public void Main()
         {
@@ -34,3 +34,4 @@ Extension of the ISheetMetalFolder interface to change thickness and radius valu
         ///  The SldWorks swApp variable is pre-assigned for you.
         /// </summary>
         public SldWorks swApp;
+
