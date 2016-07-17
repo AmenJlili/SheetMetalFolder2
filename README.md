@@ -1,5 +1,5 @@
 # SheetMetalFolder2
-# This bug was resolved in Solidworks 2017 b2.
+
 Extension of the ISheetMetalFolder interface to change thickness and radius value (SolidWorks Bug)
 
 
@@ -38,3 +38,6 @@ Extension of the ISheetMetalFolder interface to change thickness and radius valu
 #Credits 
 
 Credits goes to the following gentlemen for this methodology: Artem Taturevych and Viktor Bovzdarenko. You can find them at the SolidWorks Forums (API Section).
+
+# Update
+This bug was resolved in Solidworks 2017 b2.
