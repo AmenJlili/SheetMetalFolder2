@@ -35,7 +35,7 @@ Extension of the ISheetMetalFolder interface to change thickness and radius valu
         /// </summary>
         public SldWorks swApp;
 
-#Credits 
+# Credits 
 
 Credits goes to the following gentlemen for this methodology: Artem Taturevych and Viktor Bovzdarenko. You can find them at the SolidWorks Forums (API Section).
 
